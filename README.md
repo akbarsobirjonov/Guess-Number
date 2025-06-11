@@ -1,2 +1,3 @@
-# Guess-Number
-Guess Number. From this code you need to guess a number from 0 to 5. Good Luck!
+# Guess Random Number
+
+A simple Python game where you try to guess a randomly generated number between 0 and 5.
